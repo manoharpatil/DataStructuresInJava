@@ -34,7 +34,7 @@ public class StackUsingArrayV1 {
     // Insert data to stack
     public void push(int val) {
 
-        // Check for Stack is full
+        // Check if Stack is full
         if (top == SIZE - 1) {
             System.out.println("Stack is full.");
         } else {
