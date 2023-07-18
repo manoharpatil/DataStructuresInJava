@@ -1,4 +1,6 @@
-package Queue.array;
+package queue.array;
+
+// Queue Using Array and Application
 
 public class QueueUsingArrayV1 {
 

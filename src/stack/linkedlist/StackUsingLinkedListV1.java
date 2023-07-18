@@ -1,5 +1,7 @@
 package stack.linkedlist;
 
+// Stack Using Linked List
+
 class NodeV1 {
     int data;
     NodeV1 next;

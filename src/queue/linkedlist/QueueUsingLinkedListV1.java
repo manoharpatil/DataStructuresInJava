@@ -1,4 +1,6 @@
-package Queue.linkedlist;
+package queue.linkedlist;
+
+// Queue Using Linked List
 
 class NodeV1 {
     int data;
